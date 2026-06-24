@@ -4,6 +4,11 @@ import json
 import numpy as np
 from PIL import Image
 import tensorflow as tf
+import streamlit as st
+
+st.title("Bean Disease Prediction in East Africa")
+# rest of your app code...
+
 
 # =====================================
 # PROJECT SETTINGS
